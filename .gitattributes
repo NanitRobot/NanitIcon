@@ -1,0 +1,7 @@
+# TEXT
+*.md            text
+*.json          text
+.gitattributes  text
+.gitignore      text
+# BINARY
+*.bmp           binary
